@@ -46,4 +46,8 @@
 | 2805 | 6 |
 | 1654 | 6 |
 | 7795 | 7 |
+| Sort Algorithm | 7 |
+| Dynamic Programming | |
+| 11727 | 8 |
+| 11066 | 8 |
 </div>
