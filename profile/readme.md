@@ -49,5 +49,6 @@
 | Sort Algorithm | 7 |
 | Dynamic Programming | |
 | 11727 | 8 |
-| 11066 | 8 |
+| 11066( 보류 ) | 8 |
+| 15486 | 9 |
 </div>
